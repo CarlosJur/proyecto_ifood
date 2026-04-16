@@ -1,0 +1,7 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(unzip data/raw_data/ml_project1_data.zip -d /tmp/ifood_unzip/)"
+    ]
+  }
+}
